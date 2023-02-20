@@ -5,4 +5,4 @@ The game interface contains two Text areas and two buttons one is to generate th
 The first button(Generate the number) will generate a number randomly between 1-100. 
 The second button(Guess the number) is for user.User have 10 attempts to guess the number.
 First text area says whether the number is generated or not and other text area will give clues like,the entered number is lower number or larger number.  
-Based on the number of attempts the score and points will be allocated.For every wrong guess the user will lose 1 ponit. 
+Based on the number of attempts the score and points will be allocated.For every wrong guess the user will lose 1 point. 
